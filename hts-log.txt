@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Oct 2019 06:52:52 at https://vanholtz.co +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://vanholtz.co -O1 "C:\My Web Sites\Kill Normal 1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:53:02	Warning: 	File not parsed, looks like binary: https://vanholtz.co/fonts/DrukWide-Medium-Web.woff2
+06:53:02	Warning: 	File not parsed, looks like binary: https://vanholtz.co/fonts/DrukWide-Super-Web.woff2
+06:53:37	Error: 	"Not Found" (404) at link https://vanholtz.co/work/fonts/DrukWide-Medium-Web.eot (from https://vanholtz.co/work/studiomega/)
+06:53:37	Error: 	"Not Found" (404) at link https://vanholtz.co/work/fonts/DrukWide-Medium-Web.eot? (from https://vanholtz.co/work/studiomega/)
+06:53:37	Error: 	"Not Found" (404) at link https://vanholtz.co/work/fonts/DrukWide-Medium-Web.woff2 (from https://vanholtz.co/work/studiomega/)
+06:53:37	Error: 	"Not Found" (404) at link https://vanholtz.co/work/fonts/DrukWide-Medium-Web.woff (from https://vanholtz.co/work/studiomega/)
+06:53:37	Error: 	"Not Found" (404) at link https://vanholtz.co/work/fonts/DrukWide-Super-Web.eot (from https://vanholtz.co/work/studiomega/)
+06:53:37	Error: 	"Not Found" (404) at link https://vanholtz.co/work/fonts/DrukWide-Super-Web.eot? (from https://vanholtz.co/work/studiomega/)
+06:53:37	Error: 	"Not Found" (404) at link https://vanholtz.co/work/fonts/DrukWide-Super-Web.woff2 (from https://vanholtz.co/work/studiomega/)
+06:53:37	Error: 	"Not Found" (404) at link https://vanholtz.co/work/fonts/DrukWide-Super-Web.woff (from https://vanholtz.co/work/studiomega/)
+06:53:37	Error: 	"Not Found" (404) at link https://vanholtz.co/journal/fonts/DrukWide-Medium-Web.eot (from https://vanholtz.co/journal/collaboration/)
+06:53:37	Error: 	"Not Found" (404) at link https://vanholtz.co/journal/fonts/DrukWide-Medium-Web.eot? (from https://vanholtz.co/journal/collaboration/)
+06:53:37	Error: 	"Not Found" (404) at link https://vanholtz.co/journal/fonts/DrukWide-Medium-Web.woff2 (from https://vanholtz.co/journal/collaboration/)
+06:53:37	Error: 	"Not Found" (404) at link https://vanholtz.co/journal/fonts/DrukWide-Medium-Web.woff (from https://vanholtz.co/journal/collaboration/)
+06:53:38	Error: 	"Not Found" (404) at link https://vanholtz.co/journal/fonts/DrukWide-Super-Web.eot (from https://vanholtz.co/journal/collaboration/)
+06:53:38	Error: 	"Not Found" (404) at link https://vanholtz.co/journal/fonts/DrukWide-Super-Web.eot? (from https://vanholtz.co/journal/collaboration/)
+06:53:38	Error: 	"Not Found" (404) at link https://vanholtz.co/journal/fonts/DrukWide-Super-Web.woff2 (from https://vanholtz.co/journal/collaboration/)
+06:53:38	Error: 	"Not Found" (404) at link https://vanholtz.co/journal/fonts/DrukWide-Super-Web.woff (from https://vanholtz.co/journal/collaboration/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 seconds : 176 links scanned, 158 files written (45545190 bytes overall) [44875260 bytes received at 975549 bytes/sec], 1302680 bytes transferred using HTTP compression in 45 files, ratio 39%, 19.5 requests per connection
+(16 errors, 2 warnings, 0 messages)
